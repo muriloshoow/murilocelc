@@ -1,0 +1,51 @@
+h1 {
+    text-align:center;
+    background-color:red;
+}
+h2{
+    text-align: center;
+}
+h3{
+    font-style: oblique;
+    background-color:red;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: medium;
+}
+strong {
+    font-size: larger;
+}
+
+body {
+    background-color:white;
+}
+.imagem1 {
+    width: 200px;
+}
+.imagemcentralizada {
+ text-align: center;
+}
+
+.unicornio {
+    background-color:red;
+
+}
+.brilho {
+   color:black;
+    font-style: italic
+}
+.lista {
+        display: inline-block;
+        padding: 5%;
+        margin-right: 10%;
+    }
+
+nav a{
+    text-transform: uppercase;
+    color: blanchedalmond;
+    font-weight: 300;
+    font-size: 100%;
+}
